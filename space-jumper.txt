@@ -1,55 +1,76 @@
-This is the beginning of a new era. The human species is experiencing a new time of
-exploration, we are now probing the next frontier and probably the last, space.
-Governements do not yet have either the will or thechnology to expand their influence
-over large clusters of star, nevermind galaxy. This leave the most adventurous of us
-free to go where ever we wish and make a name for ourselves. The only way for us to
-roam the universe is by using a technology that warp space itself. Everybody call it
-space jump, even if as you know it is not accurate. This is however where our name
-comes from.
+This is the beginning of a new and eternal era. The human species will now be
+exploring the universe until its end, forever probing the last frontier, space.
+Because of relativity, governments will never be able to expand their influence
+over large clusters of stars, nevermind galaxies. This let the most adventurous
+of us free to go wherever we wish at the condition to leave everything behind.
+The only way for us to roam the universe is by taking advantage of relativity
+to cover enormous distances in the blink of an eye, from our perspective.
+Depending on the distance, it means that by the time we reach our destination,
+the civilization from which we departed may not exist anymore. Everybody call
+it space jump, even if as you know it is not accurate.
 
-We are space jumpers.
+As you would expect, making a living out there is a risky business, we need to
+scavenge to survive, food, water and such... Obviously, doing so, we damage our
+ships, which means that we also need to find the resources to mend it, and
+actually proceed with the reparations whatever the environment.
 
-As you would expect, making a living out there is a risky buisness, we need to scavenge
-to survive, food, water and such... Obviously doing so we damage our ships, which
-means that we also need to find the resources to mend it, and actually proceed with
-the reperations whatever the environment.
+Contrarily to most science fiction movies of the 21st century we choose not to
+produce an artificial gravity on our space craft. The technology exists though.
+In fact most commercial ship are equipped with it. Most customers do not feel
+comfortable living in a 0G environment. We, on the other hand, find it extremely
+practical. In particular not having a concept of up and down means that every
+surface can be used as storage without risking something falling on your head.
+What's more is that not having the system means not having to repair it when it breaks,
+we tend to be economical with the tech we use for that reason.
 
-All this I am sure beg the question why did choose we this way of life? And as always
-the answer is: "The journey is well worth it!".
-
-Contrarily to most science fiction movies of the 21st century we choose not to produce
-an artificial gravity on our space craft. The technology exists though. In fact most
-commercial ship are equipped with it. Most customers do not feel comfortable living in
-a 0G environment. We on the other hand find it extremely practical. In particular not having
-a concept of up and down means that every surface can be used as storage without risking
-something falling on your head. What's more is that not having it means not having to repair
-it when it breaks, we tend to be economical with the tech we use for that reason.
-
-This choice has a significant downside, without proper exercise the muscles get weak
-which would make it impossible to explore a planet without first accomodating to the
-gravity. In order to cope with that issue we are constantly wearing exoskeletons that
-reproduce the stress gravity would have on our muscles and bones. It is possible to adjust
-the forces so that if we plan on landing on a planet with higher gravity that what we are
-used to we are able to prepare for it. Alternatively, these exosqueletons can help us
-compensate for a gravity we wouldn't be able to adjust too.
+This choice has a significant downside, without proper exercise the muscles get
+weak which would make it impossible to explore a planet without first
+accommodating to the gravity. In order to cope with that issue we are
+constantly wearing exoskeletons that reproduce the stress gravity would have on
+our muscles and bones. It is possible to adjust the forces so that if we plan
+on landing on a planet with higher gravity than what we are used to, we are
+able to prepare for it. Alternatively, these exoskeletons can help us
+compensate for a gravity we wouldn't be able to adjust to, in the limit of what
+our internal organs can bear.
 
 Very few other people wear this sort of exoskeleton and all of us do.
 
-Not having gravity aboard the ship means that our food has to be sealed in containers to
-prevent it from flying away. For the same reason we can't eat any crispy food, any crumbs
-would rapidly become unmanageable obstructing the vents and ending up in people eyes.
-The room in which we eat altogether is round and its ceiling is transparent so that
-we can contemplate the void as we share a meal. On the side perpendicular to the window
-wall there are straps we can use when we eat and on the wall opposite to the window multiple
-handles and drawers to move around and store the food.
+Not having gravity aboard the ship means that our food has to be sealed in
+containers to prevent it from flying away. For the same reason we can't eat any
+crispy food, any crumbs would rapidly become unmanageable obstructing the vents
+and ending up in people eyes. The room in which we take our meals is round and
+its ceiling is transparent so that we can contemplate the void as we eat. On
+the side perpendicular to the window wall there are straps we can use when we
+eat and on the wall opposite to the window multiple handles and drawers to move
+around and store the food.
 
-For survival reasons and because it involves space travel, space jumpers need
-to be highly educated and excel in their field. At some point everyone expertise
-means life or death for the entire crew.
+Most ships have an hydroponics room to provide fresh food and life support on
+top of the ships' system. It is also a nice place to hang around on calm days.
+Typically crews tend to be composed of different species. To limit the
+logistics, it implies that all species in a ship must be able to survive
+roughly the same range of life support setup. That way the whole crew is able
+to move around without specific gear to breath. This makes meals that much
+easier, the risk of accident due to equipment failure less likely and the
+hydroponics all the more useful. As for communication we were able to develop
+instantaneous translator and we use them when the communication is not possible
+otherwise. We wear communicators anyways to be able to reach the other in case
+something happens.
 
-The old saying goes: "In space, there is no situation so bad you can't make it worse."
+For survival reasons and because it involves space travels, space jumpers need
+to be highly educated and excel in their field. At some point, anyone's
+expertise means life or death for the entire crew.
 
-[TODO]
-alien space mates
-hydroponics
-[TODO]
+As goes the old saying: "In space, there is no situation so bad you can't make
+it worse."
+
+All this I am sure beg the question why did we choose this way of life? And as
+always the answer is: "The journey is well worth it!".
+
+We are space jumpers.
+
+[TODO] fix point in time and space for jumpers to meet [TODO]
+[TODO] ability to stop during a jump when noticing signal [TODO]
+
+[TODO] alien description [TODO]
+
+[TODO] symbiotic skeleton, symbiotic nervous system [TODO]
